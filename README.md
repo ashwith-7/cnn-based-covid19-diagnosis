@@ -100,4 +100,4 @@ year={2025}
 This project is released under the MIT License.
 
 ## Authors
-Mrinal Ashwith S P
+Mrinal Ashwith S P, and  Rajalakshmi Shenbaga Moorthy
